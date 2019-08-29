@@ -6,7 +6,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import mpl_toolkits.mplot3d.axes3d as p3
 
 
-data=pd.read_excel(r'C:\Users\Hayoung\aggiechallenge\Multiobject-Tracker\MovingTrim3.xlsx')
+data=pd.read_excel(r'C:\Users\Hayoung\github\multiobject-tracker\MovingTrim3.xlsx')
 # y0 = data.iloc[0, 0] #data.iloc is used to load specific cells from the dataframes created by pd.read_excel
 # x0= data.iloc[0, 1]
 # y1 = data.iloc[0, 2]
